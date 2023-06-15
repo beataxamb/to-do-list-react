@@ -1,0 +1,31 @@
+.buttons {
+    border: none;
+    background-color: transparent;
+    color: teal;
+    font-size: 15px;
+    padding-left: 0px;
+    margin: 0 0 0 20px;
+    transition: 1s;
+}
+
+.buttons:hover {
+    color: hsl(180, 100%, 30%);
+}
+
+.buttons:active {
+    color: hsl(180, 100%, 35%);
+}
+
+.buttons:disabled {
+    color: lightgrey;
+}
+
+@media (max-width: 767px) {
+    .buttons {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        margin-top: 15px;
+        width: 100%;
+    }
+}

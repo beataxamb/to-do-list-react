@@ -1,0 +1,9 @@
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+    word-break: break-word;
+    padding: 30px 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+}
