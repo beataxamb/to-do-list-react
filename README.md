@@ -1,8 +1,31 @@
-# Getting Started with Create React App
+# **TO-DO LIST**
+
+## **About this project**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+The application allows you to manage the tasks you have to do.
+
+## **How to use it ?** 
+
+- You can add your new task in the main panel.
+- If you have completed the task, you can mark them as completed with the green button. The task will be crossed out, but you will still see it on your list.
+- If a task is no longer valid, you can delete it using the trash can icon.
+- After adding the first task, two new buttons will appear above the list of tasks: 
+  - the first allows you to hide completed tasks,
+  - the second allows you to mark all tasks as done.
+
+  
+![lista-zadan](https://raw.githubusercontent.com/beataxamb/to-do-list/main/images/to-do-list-gif.gif)
+
+### **Technologies used:**
+
+- HTML
+- CSS
+- JavaScript
+- BEM convention
+
+## **Available Scripts**
 
 In the project directory, you can run:
 
@@ -14,10 +37,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -39,32 +58,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## **Try this !** 🙂
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Just click on the link below
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+🔰🔰🔰🔰🔰
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### https://beataxamb.github.io/to-do-list/ ###
