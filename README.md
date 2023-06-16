@@ -16,7 +16,7 @@ The application allows you to manage the tasks you have to do.
   - the second allows you to mark all tasks as done.
 
   
-![lista-zadan](https://raw.githubusercontent.com/beataxamb/to-do-list/main/images/to-do-list-gif.gif)
+![lista-zadan](https://raw.githubusercontent.com/beataxamb/to-do-list-react/gh-pages/to-do-list-gif.gif)
 
 ### **Technologies used:**
 
