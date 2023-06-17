@@ -32,8 +32,12 @@ Just click on the link below
 
 - HTML
 - CSS
+- Normalize CSS
 - JavaScript
 - BEM convention
+- React.js
+- Babel
+- WebPack
 
 ## **Available Scripts**
 
