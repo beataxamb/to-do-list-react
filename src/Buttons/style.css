@@ -1,4 +1,4 @@
-.buttons {
+.buttons__button {
     border: none;
     background-color: transparent;
     color: teal;
@@ -8,20 +8,20 @@
     transition: 1s;
 }
 
-.buttons:hover {
+.buttons__button:hover {
     color: hsl(180, 100%, 30%);
 }
 
-.buttons:active {
+.buttons__button:active {
     color: hsl(180, 100%, 35%);
 }
 
-.buttons:disabled {
+.buttons__button:disabled {
     color: lightgrey;
 }
 
 @media (max-width: 767px) {
-    .buttons {
+    .buttons__button {
         display: grid;
         grid-template-columns: 1fr;
         justify-items: center;

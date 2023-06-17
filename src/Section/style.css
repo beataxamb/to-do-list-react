@@ -1,14 +1,19 @@
-.section {
+.section__header {
     margin: 2px;
-    padding: 20px;
+    padding: 10px;
     background: white;
     display: grid;
     grid-template-columns: repeat(2, auto);
     justify-content: space-between;
+    align-items: center;
+}
+
+.section__title {
+ margin: 10px 5px 10px 5px;
 }
 
 @media (max-width: 767px) {
-    .section {
+    .section__header {
         grid-template-columns: 1fr;
         justify-content: center;
     }
