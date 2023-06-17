@@ -1,11 +1,13 @@
 import "./style.css";
 
 const Section = ({ title, body, extraHeaderContent }) => (
-    <section>
-        <h2 className="section">
-            {title}
-            {extraHeaderContent}
-        </h2>
+    <section className="section">
+        <header className="section__header">
+            <h2 className="section__title">
+                {title}
+            </h2>
+                {extraHeaderContent}
+        </header>
         {body}
     </section>
 );
