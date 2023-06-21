@@ -6,7 +6,7 @@ const Form = () => (
       type="text"
       name="newTask"
       required
-      autofocus
+      autoFocus
       placeholder="Co jest do zrobienia?"
       className="form__input"
     />
